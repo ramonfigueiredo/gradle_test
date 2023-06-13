@@ -1,4 +1,4 @@
-# Simple project using Gradle Build Tool
+# Simple Java project using Gradle Build Tool
 
 ## Gradle Tasks
 
