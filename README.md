@@ -1,1 +1,1 @@
-# gradle_test
+# Simple project using Gradle Build Tool
