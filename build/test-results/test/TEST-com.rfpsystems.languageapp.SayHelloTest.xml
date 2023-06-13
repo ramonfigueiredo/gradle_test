@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.rfpsystems.languageapp.SayHelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-13T06:00:11" hostname="Ramons-MacBook-Pro.local" time="0.008">
-  <properties/>
-  <testcase name="testSayHello()" classname="com.rfpsystems.languageapp.SayHelloTest" time="0.008"/>
-  <system-out><![CDATA[Hello!
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
